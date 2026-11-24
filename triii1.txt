@@ -1,0 +1,6 @@
+hi 
+hello
+good morning
+i am in git lab
+i am learning git
+byeee
